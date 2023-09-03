@@ -1,0 +1,2 @@
+Inheritance is a fundamental concept in object-oriented programming (OOP) that allows one class to inherit properties and behaviors (i.e., fields and methods) from another class. It promotes code reusability, maintainability, and the creation of hierarchical relationships between classes. Inheritance is a key pillar of OOP, along with encapsulation and polymorphism. Let's explore inheritance and its types in more detail:
+
